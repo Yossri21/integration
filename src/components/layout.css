@@ -14,7 +14,7 @@
 }
 
 * {
-  margin: 0;
+  margin: 0  ;
   padding: 0;
   box-sizing: border-box;
 }
@@ -43,31 +43,6 @@ p {
   margin-bottom: 1.25rem;
 }
 
-.btn-white,
-.btn-primary {
-  text-transform: uppercase;
-  text-decoration: none;
-  letter-spacing: var(--mainSpacing);
-  color: var(--mainWhite);
-  border: 2px solid var(--mainWhite);
-  padding: 0.9rem 1.6rem;
-  display: inline-block;
-  transition: var(--mainTransition);
-  cursor: pointer;
-}
-.btn-white:hover {
-  background: var(--mainWhite);
-  color: var(--primaryColor);
-}
-.btn-primary {
-  background: var(--primaryColor);
-  color: var(--mainWhite);
-  border: 2px solid var(--primaryColor);
-}
-.btn-primary:hover {
-  background: transparent;
-  color: var(--primaryColor);
-}
 main {
   min-height: 100vh;
   display: flex;
