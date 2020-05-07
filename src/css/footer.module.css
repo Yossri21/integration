@@ -1,8 +1,50 @@
+
 .background{
     background: darkcyan !important;
-    color: white;
-    padding-left: 2rem;
-    display: flex;
-    font-size: 12px
+   
 }
 
+.pStyle{
+font-size: 12px;
+}
+
+.div-first{
+    display: inline-block
+}
+
+.padding-footer{
+    padding-top: 1.8rem !important;
+}
+.right{
+
+text-align: left !important;
+}
+
+.left{
+text-align: right !important;
+}
+
+.b{
+    background-color: grey !important;
+}
+
+h6{
+    font-size: 11px;
+    color: white;
+}
+
+.icons a {
+    display: inline-block !important;
+    margin: 1rem;
+    font-size: 1rem;
+    color: darkcyan;
+   
+  }
+  .icons a:hover {
+    color: blue
+  }
+
+  .links a {
+      color: black;
+      font-size: 12px;
+  }
