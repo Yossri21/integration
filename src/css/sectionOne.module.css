@@ -1,0 +1,24 @@
+.fonts{
+    font-weight: bold;
+}
+
+.color-section{
+    color : blue !important;
+    font-size: 13px !important;
+}
+
+.link{
+   
+        background : teal ;
+        color :  white !important ;
+        padding: 12px !important;
+}
+
+.imgo{
+    width: 300px !important;
+    height: 300px !important;
+}
+
+.padd{
+    margin-top: 2rem;
+}

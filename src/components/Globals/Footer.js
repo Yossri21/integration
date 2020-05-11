@@ -64,12 +64,12 @@ const Footer = () => {
           <div className="row">
             <div className="col">
               <div className={`   ${styles.right}`}>
-                <h6> © 2020 Copyright </h6>
+                <h6 className={ styles.colorx}> © 2020 Copyright </h6>
               </div>
             </div>
             <div className="col">
               <div className={`${styles.left}`}>
-                <h6> users | Time | Boum </h6>
+                <h6 className={ styles.colorx}> users | Time | Boum </h6>
               </div>
             </div>
           </div>

@@ -28,9 +28,9 @@ text-align: right !important;
     background-color: grey !important;
 }
 
-h6{
-    font-size: 11px;
-    color: white;
+.colorx {
+    font-size: 11px !important;
+    color: white !important;
 }
 
 .icons a {
